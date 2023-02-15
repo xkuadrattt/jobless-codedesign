@@ -21,7 +21,7 @@ const Header = function () {
   // Navbar Menu Reposive Styling Toggle
 
   const navMobile =
-    "flex flex-col gap-4 absolute top-[3.6rem] w-full h-[90vh] overflow-hidden z-10 left-0 right-0 bg-white/20 backdrop-blur md:static md:w-auto md:flex-row md:h-auto md:gap-0";
+    "flex flex-col gap-4 absolute top-[3.6rem] w-full h-[90vh] overflow-hidden z-30 left-0 right-0 bg-white/20 backdrop-blur md:static md:w-auto md:flex-row md:h-auto md:gap-0";
 
   return (
     <header className="fixed left-0 right-0 top-0 z-30 bg-white/20 backdrop-blur font-primary">
