@@ -54,7 +54,7 @@ const Header = function () {
               <a href="#">Contact Us</a>
             </li>
           </ul>
-          <button className="px-4 py-2 border border-black/20 max-w-[10rem] self-center hover:bg-white/20">
+          <button className="px-4 py-2 border border-black/20 max-w-[10rem] self-center hover:bg-white/20 rounded-md">
             Sign Up
           </button>
         </nav>
