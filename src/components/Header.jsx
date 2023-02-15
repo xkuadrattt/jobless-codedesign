@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Header = function () {
-  const [menu, setMenu] = useState(false);
+  const [menu, setMenu] = useState(true);
 
   const handleMenu = function () {
     setMenu(function (prevMenu) {
